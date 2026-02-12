@@ -71,6 +71,10 @@ section {
     background: #fafafa;
     border-left: 4px solid #666;
 }
+main h2{
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+}
 
 h2 {
     font-size: 1.8rem;
